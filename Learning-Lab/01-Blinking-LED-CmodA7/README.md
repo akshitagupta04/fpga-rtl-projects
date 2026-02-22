@@ -4,7 +4,7 @@
 
 ### Overview
 <p align="justify">
-This project was implemented to verify the functional integrity of the **Cmod A7-35T (Artix-7)** FPGA board purchased in September 2025. This was my first "Live Hardware" test using the **Vivado 2024.1** toolchain. 
+This project was implemented to verify the functional integrity of the __Cmod A7-35T (Artix-7)__ FPGA board purchased in September 2025. This was my first "Live Hardware" test using the **Vivado 2024.1** toolchain. 
 </p>
 
 <p align="justify">
