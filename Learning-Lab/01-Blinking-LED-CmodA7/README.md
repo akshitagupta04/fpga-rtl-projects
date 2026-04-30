@@ -8,7 +8,7 @@ This project was implemented to verify the functional integrity of the **Cmod A7
 
 <p align="justify">
 
-The design was successfully implemented with **Zero Critical Warnings**. Minor warnings in DRC and Implementation were reviewed and found to be related to default voltage bank settings, which do not affect the functionality of this hardware validation test. 
+The design was successfully implemented with **Zero Critical Warnings**. Minor warnings in DRC violations, Synthesis and Implementation were reviewed and found to be related to default voltage bank settings, which do not affect the functionality of this hardware validation test. 
 </p>
 
 ---
