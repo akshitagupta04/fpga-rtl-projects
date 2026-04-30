@@ -1,6 +1,4 @@
-# Learning-Lab: Cmod A7 Hardware Validation
-
-## Project Status: SUCCESS (Verified on Hardware)
+## Blinking LED – Cmod A7-35T Hardware Implementation
 
 ### Overview
 <p align="justify">
