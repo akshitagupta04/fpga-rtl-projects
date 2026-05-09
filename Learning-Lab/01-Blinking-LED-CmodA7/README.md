@@ -50,7 +50,6 @@ The design met all user-specified timing constraints with significant margin.
 - Core Verilog logic (RTL): [src](./src/)
 - Verification environment (Testbench): [simulation](./simulation/)
 - Artix-7 pin mapping (XDC): [constraints](./constraints/)
-- Timing and Power summary reports: [reports](./reports/)
 
 ---
 
