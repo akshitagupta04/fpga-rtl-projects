@@ -60,7 +60,7 @@ The design met all user-specified timing constraints with significant margin.
 - Bitstream Generation: Successful.
 - Hardware Test: Onboard LED (Pin A17) blinks correctly at 1Hz, confirming the board's functionality.
 
-> Hardware Demo: [system-design](./system-design/board-led-blinking.gif)
+> Hardware Demo: [system-design](./system-design/artix-7-35T-blinking-led-demo.mp4)
 
 --- 
 
