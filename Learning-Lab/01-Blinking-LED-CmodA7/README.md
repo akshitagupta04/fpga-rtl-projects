@@ -1,11 +1,12 @@
 # Blinking LED – Cmod A7-35T Hardware Implementation
 
 ## Overview
-
-<p align="justify"> This project was implemented to verify the functional integrity of the **Cmod A7-35T (Xilinx Artix-7)** FPGA board purchased in September 2025. This was my first "Live Hardware" test using the **Vivado 2024.1** toolchain. 
+<p align="justify"> 
+This project was implemented to verify the functional integrity of the Cmod A7-35T (Xilinx Artix-7 35T) FPGA board purchased in September 2025. This was my first "Live Hardware" test using the **Vivado 2024.1** toolchain. 
 </p>
 
-<p align="justify"> The design was successfully implemented with **Zero Critical Warnings**. Minor warnings in DRC violations, Synthesis and Implementation were reviewed and found to be related to default voltage bank settings, which do not affect the functionality of this hardware validation test. 
+<p align="justify"> 
+The design was successfully implemented with Zero Critical Warnings. Minor warnings in DRC violations, Synthesis and Implementation were reviewed and found to be related to default voltage bank settings, which do not affect the functionality of this hardware validation test. 
 </p>
 
 ---
