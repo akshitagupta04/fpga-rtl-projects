@@ -1,6 +1,6 @@
-## Blinking LED – Cmod A7-35T Hardware Implementation
+# Blinking LED – Cmod A7-35T Hardware Implementation
 
-### Overview
+## Overview
 <p align="justify">
 
 This project was implemented to verify the functional integrity of the **Cmod A7-35T (Xilinx Artix-7)** FPGA board purchased in September 2025. This was my first "Live Hardware" test using the **Vivado 2024.1** toolchain. 
@@ -13,20 +13,28 @@ The design was successfully implemented with **Zero Critical Warnings**. Minor w
 
 ---
 
-### Implementation Logic
+## Implementation Logic
 - **Input:** 12MHz Oscillator on pin L17.
 - **Counter:** 26-bit register to divide the 12MHz clock.
 - **Toggle Point:** At `6,000,000` cycles (0.5 seconds), causing a 1Hz visible blink.
 
 ---
 
-### Files
+## Functional Verification (Simulation)
+
+--- 
+
+## Physical Analysis (Post-Implementation)
+
+---
+
+## Project Navigation
 - Verilog RTL logic: [src](/Learning-Lab/01-Blinking-LED-CmodA7/src/)
 - Physical pin mapping for Artix-7: [constraints](/Learning-Lab/01-Blinking-LED-CmodA7/constraints/)
 
 ---
 
-### Results
+## Results
 - Synthesis & Implementation: Completed with 0 critical errors/warnings.
 - Bitstream Generation: Successful.
 - Hardware Test: Onboard LED blinks correctly, confirming the board and USB interface are fully functional.
