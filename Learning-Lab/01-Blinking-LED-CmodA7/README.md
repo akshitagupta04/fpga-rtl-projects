@@ -25,7 +25,7 @@ Before hardware implementation, the design was verified using a Verilog Testbenc
 - **Validation:** The 26-bit counter was monitored to confirm it increments linearly and triggers the LED toggle exactly at the 6,000,000 cycle constant. 
 - **Result:** Behavioral simulation confirmed the 1Hz toggle rate based on the 12MHz input oscillator. 
 
-[Simulation waveform](./system-design/simulation-waveform.jpg)
+> Simulation waveform: [Simulation waveform](./system-design/simulation-waveform.jpg)
 
 --- 
 
@@ -43,7 +43,7 @@ The design met all user-specified timing constraints with significant margin.
 - **Junction Temperature:** 25.3 °C
 - **Efficiency:** The dynamic power consumption is <0.001 W, reflecting a highly optimized RTL design for the 12MHz clock domain.
 
-Detailed reports are available in the [reports](./reports/) folder. 
+> Detailed reports are available in the [reports](./reports/) folder. 
 
 ---
 
@@ -60,7 +60,7 @@ Detailed reports are available in the [reports](./reports/) folder.
 - Bitstream Generation: Successful.
 - Hardware Test: Onboard LED (Pin A17) blinks correctly at 1Hz, confirming the board's functionality.
 
-Hardware Demo: [system-design](./system-design/board-led-blinking.gif)
+> Hardware Demo: [system-design](./system-design/board-led-blinking.gif)
 
 --- 
 
