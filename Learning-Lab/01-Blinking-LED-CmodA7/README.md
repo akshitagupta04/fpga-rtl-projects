@@ -21,23 +21,47 @@ The design was successfully implemented with **Zero Critical Warnings**. Minor w
 ---
 
 ## Functional Verification (Simulation)
+Before hardware implementation, the design was verified using a Verilog Testbench in Vivado 2024.1: 
+
+- **Validation:** The 26-bit counter was monitored to confirm it increments linearly and triggers the LED toggle exactly at the 6,000,000 cycle constant. 
+- **Result:** Behavioral simulation confirmed the 1Hz toggle rate based on the 12MHz input oscillator. 
+
+[Simulation waveform](./system-design/simulation-waveform.jpg)
 
 --- 
 
 ## Physical Analysis (Post-Implementation)
+After routing the design on the Artix-7 35T, formal Timing and Power analyses were conducted to confirm physical hardware reliability:  
+
+### Timing Summary (STA) 
+The design met all user-specified timing constraints with significant margin. 
+- **Worst Negative Slack (WNS):** 79.288 ns (Passed)
+- **Worst Hold Slack (WHS):** 0.280 ns (Passed)
+- **Clock Frequency:** 12.000 MHz (Target Met) 
+
+### Power Analysis 
+- **Total On-Chip Power:** 0.069 W
+- **Junction Temperature:** 25.3 °C
+- **Efficiency:** The dynamic power consumption is <0.001 W, reflecting a highly optimized RTL design for the 12MHz clock domain.
+
+Detailed reports are available in the [reports](./reports/) folder. 
 
 ---
 
 ## Project Navigation
-- Verilog RTL logic: [src](/Learning-Lab/01-Blinking-LED-CmodA7/src/)
-- Physical pin mapping for Artix-7: [constraints](/Learning-Lab/01-Blinking-LED-CmodA7/constraints/)
+- Core Verilog logic (RTL): [src](./src/)
+- Verification environment (Testbench): [simulation](./simulation/)
+- Artix-7 pin mapping (XDC): [constraints](./constraints/)
+- Timing and Power summary reports: [reports](./reports/)
 
 ---
 
 ## Results
 - Synthesis & Implementation: Completed with 0 critical errors/warnings.
 - Bitstream Generation: Successful.
-- Hardware Test: Onboard LED blinks correctly, confirming the board and USB interface are fully functional.
+- Hardware Test: Onboard LED (Pin A17) blinks correctly at 1Hz, confirming the board's functionality.
+
+Hardware Demo: [system-design](./system-design/board-led-blinking.gif)
 
 --- 
 
