@@ -25,7 +25,7 @@ Before hardware implementation, the design was verified using a Verilog Testbenc
 - **Validation:** The 26-bit counter was monitored to confirm it increments linearly and triggers the LED toggle exactly at the 6,000,000 cycle constant. 
 - **Result:** Behavioral simulation confirmed the 1Hz toggle rate based on the 12MHz input oscillator. 
 
-> Simulation waveform: [Simulation waveform](./system-design/simulation-waveform.jpg)
+> Simulation waveform: [Simulation waveform](./system-design/blinking-led-simulation-waveform.jpg)
 
 --- 
 
