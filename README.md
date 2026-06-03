@@ -6,6 +6,6 @@ Actively developing personal projects in VHDL, Verilog RTL-to-bitstream flow and
 
 This repository is organized as follows: 
 
-- **Learning Lab:** Foundational syntax tests and basic projects with hardware implementation.
-- **Skill Development:** Intermediate or advance level projects with hardware implementation from training or tutorial.
-- **Projects:** Personal FPGA and RTL Design projects with hardware implementation. 
+- **Learning Lab:** Foundational syntax tests and basic projects with FPGA implementation.
+- **Skill Development:** Intermediate or advance level projects with FPGA implementation from training or tutorial.
+- **Projects:** Personal FPGA and RTL Design projects with FPGA implementation. 
