@@ -1,7 +1,7 @@
 # FPGA and RTL Design Projects 
 
 <p align="justify">
-Actively developing projects in VHDL and Verilog with full RTL-to-bitstream flow on Cmod Artix-7 35T FPGA board, in Xilinx Vivado 2024.1. 
+Actively developing personal projects in Verilog/VHDL with full RTL-to-bitstream flow and FPGA prototyping on Cmod A7 (Xilinx Artix-7 35T) FPGA board, in Xilinx Vivado 2024.1. 
 </p>
 
 This repository is organized as follows: 
