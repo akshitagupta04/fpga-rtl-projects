@@ -29,7 +29,7 @@ Before hardware implementation, the design was verified using a Verilog Testbenc
 --- 
 
 ## Physical Analysis (Post-Implementation)
-After routing the design on the Artix-7 35T, formal Timing and Power analyses were conducted to confirm physical hardware reliability:  
+After routing the design on the Artix-7 35T, timing and power reports were generated to confirm physical hardware reliability:  
 
 ### Timing Summary (STA) 
 The design met all user-specified timing constraints with significant margin. 
