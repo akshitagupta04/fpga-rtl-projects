@@ -1,7 +1,7 @@
 # 4-bit Register (without clear)
 
 ## Overview
-Reprogrammed and simulated the 4-bit register in Verilog through two methods in Xilinx Vivado 2024.1:
+Reprogrammed and simulated the 4-bit register (without clear) in Verilog through two methods in Xilinx Vivado 2024.1:
 
 - In the first method, I defined **output = input** at every rising edge of the clock. Programmed it through dataflow modelling.
 - In the second method, I programmed it through module instantiation using four 2x1 Multiplexers and four D flip-flops.
