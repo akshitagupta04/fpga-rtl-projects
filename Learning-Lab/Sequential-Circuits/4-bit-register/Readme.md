@@ -11,4 +11,4 @@ Reprogrammed and simulated the 4-bit register in Verilog through two methods in 
 
 ![4-bit register using FF UX](./assets/4-bit-register-using-FF-MUX.jpg)
 
-We can extend the second method for a higher number of bits to be stored. 
+> We can extend the second method for a higher number of bits to be stored. 
