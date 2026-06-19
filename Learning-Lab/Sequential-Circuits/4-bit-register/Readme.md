@@ -1,4 +1,4 @@
-# 4-bit Register
+# 4-bit Register (without clear)
 
 ## Overview
 Reprogrammed and simulated the 4-bit register in Verilog through two methods in Xilinx Vivado 2024.1:
