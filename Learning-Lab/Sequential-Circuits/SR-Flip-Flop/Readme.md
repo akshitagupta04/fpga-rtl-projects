@@ -1,6 +1,6 @@
 # SR Flip-Flop
 
 ## Overview
-Reprogrammed SR Flip-Flop in Verilog HDL in Xilinx Vivado 2024.1. Succesfully verified through Linter (under RTL Analysis), an in-built feature in Xlinx Vivado 2024.1, to confirm if Verilog RTL Design have any violations or not. 
+Reprogrammed SR Flip-Flop in Verilog HDL in Xilinx Vivado 2024.1. Succesfully verified the Verilog RTL Design of SR flip=flop through the in-built RTL Linter (under RTL Analysis) in Xilinx Vivado 2024.1, confirming zero design violations. 
 
 Simulated through forcing clock on different duty cycles and periods of input values. 
