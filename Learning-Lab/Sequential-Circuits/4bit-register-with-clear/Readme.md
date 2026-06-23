@@ -1,7 +1,7 @@
 # 4-bit Register (with clear)
 
 ## Overview 
-Reprogrammed 4-bit register (with clear) Verilog code through if-else conditions in Xilinx Vivado 2024.1, using logic diagram given below. Successfully verified 4-bit register (with clear) by developing Verilog testbench and analyzed its simulation results. 
+Reprogrammed 4-bit register (with clear) Verilog code through if-else conditions in Xilinx Vivado 2024.1, using block diagram given below. Successfully verified 4-bit register (with clear) by developing Verilog testbench and analyzed its simulation results. 
 
 ![4-bit-register-with-clear](./assets/4bit-register-with-clear.jpg) 
 
