@@ -1,1 +1,1 @@
-# Johnson Counter Design 
+# 4-bit Johnson Counter Design 
