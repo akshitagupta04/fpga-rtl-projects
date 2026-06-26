@@ -8,7 +8,7 @@
 // Module Name: MUX_4x1
 // Project Name: 
 // Target Devices: 
-// Tool Versions: 
+// Tool Versions: Xilinx Vivado 2024.1
 // Description: 
 // 
 // Dependencies: 
