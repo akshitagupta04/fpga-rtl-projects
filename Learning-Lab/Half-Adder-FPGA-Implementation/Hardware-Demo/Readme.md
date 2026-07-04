@@ -1,1 +1,1 @@
-Half Adder FPGA Implementation — Hardware Demo 
+# Half Adder FPGA Implementation — Hardware Demo 
