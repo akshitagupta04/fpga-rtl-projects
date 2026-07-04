@@ -1,0 +1,67 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version     : Vivado v.2024.1 (win64) Build 5076996 Wed May 22 18:37:14 MDT 2024
+| Date             : Sat Jul  4 03:38:34 2026
+| Host             : HP running 64-bit major release  (build 9200)
+| Command          : report_power_opt -file {E:/fpga-rtl-vivado-projects/Verilog Projects/System Design Using FPGA/Half-Adder-FPGA-Implementation/reports/power_optimization_post_implementation.txt} -format text -name power_optimization_post_implementation
+| Design           : HA_gate
+| Device           : xc7a35tcpg236-1
+| Design State     : Routed
+| Grade            : commercial
+| Process          : typical
+| Characterization : Production
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Power optimization report
+
+Table of Contents
+-----------------
+1. Summary
+2. Recommendations
+3. Hierarchical Information
+3.1 BRAMs
+3.2 SRLs
+3.3 Slice Registers
+3.4 XPM URAMs
+
+1. Summary
+----------
+
++---------------------------+-------+------------+------------+----------------+
+| Elements                  | TOTAL | USER GATED | TOOL GATED | % GATED(Total) |
++---------------------------+-------+------------+------------+----------------+
+| Number of BRAMs           | 0     | 0          | 0          | 0.000          |
+| Number of SRLs            | 0     | 0          | 0          | 0.000          |
+| Number of Slice Registers | 0     | 0          | 0          | 0.000          |
+| Number of XPM URAMs       | 0     | 0          | 0          | 0.000          |
++---------------------------+-------+------------+------------+----------------+
+
+
+2. Recommendations
+------------------
+
+No specific recommendations for this design.
+
+3. Hierarchical Information
+---------------------------
+
+3.1 BRAMs
+---------
+
+None
+
+3.2 SRLs
+--------
+
+None
+
+3.3 Slice Registers
+-------------------
+
+None
+
+3.4 XPM URAMs
+-------------
+
+None
+
