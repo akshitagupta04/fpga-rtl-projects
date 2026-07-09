@@ -2,7 +2,7 @@
 
 ## Overview 
 <p align="justify">
-This project involves designing a traffic light controller system that is to be installed on the intersection of four ways at a junction. The directions are assumed as north, west, south, and east. Only one direction of traffic is allowed to move at a time. Red, yellow, and green signals control the flow of the traffic on all the four direction. 
+This project involves designing a FSM-based traffic light controller system that is to be installed on the intersection of four ways at a junction. The directions are assumed as north, west, south, and east. Only one direction of traffic is allowed to move at a time. Red, yellow, and green signals control the flow of the traffic on all the four direction. 
 </p>
 
 <p align="justify">
