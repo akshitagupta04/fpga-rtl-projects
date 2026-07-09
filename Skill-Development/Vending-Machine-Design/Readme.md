@@ -1,1 +1,1 @@
-# Vending Machine Design
+# Vending Machine Design (FSM-based)
