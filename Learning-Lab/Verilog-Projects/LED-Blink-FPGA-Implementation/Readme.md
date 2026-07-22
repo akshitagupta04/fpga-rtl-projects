@@ -1,8 +1,8 @@
-# Blinking LED – Cmod A7-35T Hardware Implementation
+# LED Blink FPGA Implementation
 
 ## Overview
 <p align="justify"> 
-This project was implemented to verify the functional integrity of the Cmod A7-35T (Xilinx Artix-7 35T) FPGA board purchased in September 2025. This was my first "Live Hardware" test using the Vivado 2024.1 toolchain. 
+This project was implemented to verify the functional integrity of the Cmod A7-35T (Xilinx Artix-7 35T) FPGA board purchased in September 2025. 
 </p>
 
 <p align="justify"> 
