@@ -21,12 +21,12 @@
 
 
 module MUX_4x1(
+input s1,
+input s0,
 input i0,
 input i1,
 input i2,
 input i3,
-input s1,
-input s0,
 output y
     );
     
