@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Tb_MUX_4x1_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Tb_MUX_4x1" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="100.001 ns"></ZoomEndTime>
+      <Cursor1Time time="99.915 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="284"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/Tb_MUX_4x1/s1" type="logic">
+      <obj_property name="ElementShortName">s1</obj_property>
+      <obj_property name="ObjectShortName">s1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_MUX_4x1/s0" type="logic">
+      <obj_property name="ElementShortName">s0</obj_property>
+      <obj_property name="ObjectShortName">s0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_MUX_4x1/i0" type="logic">
+      <obj_property name="ElementShortName">i0</obj_property>
+      <obj_property name="ObjectShortName">i0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_MUX_4x1/i1" type="logic">
+      <obj_property name="ElementShortName">i1</obj_property>
+      <obj_property name="ObjectShortName">i1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_MUX_4x1/i2" type="logic">
+      <obj_property name="ElementShortName">i2</obj_property>
+      <obj_property name="ObjectShortName">i2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_MUX_4x1/i3" type="logic">
+      <obj_property name="ElementShortName">i3</obj_property>
+      <obj_property name="ObjectShortName">i3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_MUX_4x1/y" type="logic">
+      <obj_property name="ElementShortName">y</obj_property>
+      <obj_property name="ObjectShortName">y</obj_property>
+   </wvobject>
+</wave_config>
