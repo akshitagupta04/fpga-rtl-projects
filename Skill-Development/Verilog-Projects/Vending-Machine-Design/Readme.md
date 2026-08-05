@@ -1,1 +1,8 @@
 # Vending Machine Design (FSM-based)
+
+## Overview 
+This project involves re-designing an FSM-based vending machine design that automates the product sale at public places. This is designed with only one product. This can be extended to multiple products as well. 
+
+This FSM model is implemented using Verilog code. The user can enter three different currency notes and select the product. Based on the price of the product, the machine dispenses the product and gives the change. 
+
+Successfully verified the Verilog RTL Design of Vending Machine through the in-built RTL Linter (under RTL Analysis) in Xilinx Vivado 2024.1, confirming zero design violations. Simulated and successfully verified the proper functioning of the vending machine design. 
