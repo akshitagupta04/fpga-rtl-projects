@@ -1,1 +1,1 @@
-# XOR Logic Gate
+# XOR Logic Gate FPGA Implementation
