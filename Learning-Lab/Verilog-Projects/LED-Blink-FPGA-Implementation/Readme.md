@@ -1,5 +1,21 @@
 # LED Blink FPGA Implementation
 
+## Table of Contents
+- [Overview](#overview)
+- [Design Description](#design-description)
+- [Module Details](#module-details)
+- [Working Principles](#working-principles)
+- [Testbench Description](#testbench-description)
+- [Simulation Details](#simulation-details)
+- [Constraints](#constraints)
+- [Implementation Logic](#implementation-logic)
+- [Post Implementation](#post-implementation)
+- [FPGA Implementation](#fpga-implementation)
+- [Notes](#notes)
+- [License](#license)
+
+---
+
 ## Overview
 <p align="justify"> 
 This project involves verifying the functional integrity of the Cmod Artix-7 35T (xc7a35tcpg236-1) FPGA board purchased in September 2025. 
