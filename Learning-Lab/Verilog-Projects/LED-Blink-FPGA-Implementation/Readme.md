@@ -4,7 +4,6 @@
 - [Overview](#overview)
 - [Design Description](#design-description)
 - [Module Details](#module-details)
-- [Working Principles](#working-principles)
 - [Testbench Description](#testbench-description)
 - [Simulation Details](#simulation-details)
 - [Constraints](#constraints)
@@ -31,10 +30,6 @@ The design was implemented using verilog and confirmed zero design violations of
 ---
 
 ## Module Details
-
----
-
-## Working Principles
 
 ---
 
