@@ -8,7 +8,7 @@
 - [Testbench Description](#testbench-description)
 - [Simulation Details](#simulation-details)
 - [Constraints](#constraints)
-- [Implementation Logic](#implementation-logic)
+- [Post Synthesis](#post-synthesis)
 - [Post Implementation](#post-implementation)
 - [FPGA Implementation](#fpga-implementation)
 - [Notes](#notes)
@@ -55,10 +55,7 @@ The design was implemented using verilog and confirmed zero design violations of
 
 ---
 
-## Implementation Logic
-- **Input:** 12MHz Oscillator on pin L17.
-- **Counter:** 26-bit register to divide the 12MHz clock.
-- **Toggle Point:** At `6,000,000` cycles (0.5 seconds), causing a 1Hz visible blink.
+## Post Synthesis
 
 --- 
 
