@@ -78,7 +78,6 @@ The design met all user-specified timing constraints with significant margin.
 ---
 
 ## FPGA Implementation
-- Synthesis & Implementation: Completed with 0 critical errors/warnings.
 - Bitstream Generation: Successful.
 - Hardware Test: Onboard LED (Pin A17) blinks correctly at 1Hz, confirming the board's functionality.
 
