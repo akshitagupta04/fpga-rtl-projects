@@ -6,7 +6,7 @@
 - [Module Details](#module-details)
 - [Working Principle](#working-principle)
 - [Testbench Description](#testbench-description)
-- [Simulatio](#simulation)
+- [Simulation](#simulation)
 - [Constraints](#constraints)
 - [Post Synthesis](#post-synthesis)
 - [Post Implementation](#post-implementation)
@@ -63,7 +63,7 @@ The design was implemented using verilog and confirmed zero design violations of
 ## Post-Implementation
 After routing the design on the Artix-7 35T, formal Timing and Power analyses were conducted to confirm physical hardware reliability:  
 
-### Timing Summary (STA) 
+### Timing Analysis (STA) 
 The design met all user-specified timing constraints with significant margin. 
 - **Worst Negative Slack (WNS):** 79.288 ns (Passed)
 - **Worst Hold Slack (WHS):** 0.280 ns (Passed)
