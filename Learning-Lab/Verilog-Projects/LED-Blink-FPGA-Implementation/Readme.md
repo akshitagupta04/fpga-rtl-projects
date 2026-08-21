@@ -6,7 +6,7 @@
 - [Module Details](#module-details)
 - [Working Principle](#working-principle)
 - [Testbench Description](#testbench-description)
-- [Simulation Details](#simulation-details)
+- [Simulatio](#simulation)
 - [Constraints](#constraints)
 - [Post Synthesis](#post-synthesis)
 - [Post Implementation](#post-implementation)
@@ -42,10 +42,11 @@ The design was implemented using verilog and confirmed zero design violations of
 
 ---
 
-## Simulation Details 
+## Simulation
 
-- **Output Format:**
-- **Waveform:**
+### Output Format
+
+### Waveform:
 
 > Simulation waveform: [Simulation waveform](./sim/led-blink-simulation-waveform.jpg)
 
