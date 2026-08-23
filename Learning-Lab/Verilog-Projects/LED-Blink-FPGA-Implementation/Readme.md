@@ -1,4 +1,4 @@
-# LED Blink FPGA Implementation
+# LED Blink — FPGA Implementation
 
 ## Table of Contents
 - [Overview](#overview)
@@ -18,10 +18,10 @@
 
 ## Overview
 <p align="justify"> 
-This project involves verifying the functional integrity of the Cmod Artix-7 35T (xc7a35tcpg236-1) FPGA board purchased in September 2025. 
+This project involves verifying the functional integrity of the Cmod Artix-7 35T (xc7a35tcpg236-1) FPGA board purchased in September 2025. The design was implemented using verilog and confirmed zero design violations through the in-built RTL Linter in Xilinx Vivado 2024.1. Simulated and successfully verified the proper functioning of this design.
 </p>
 <p align="justify"> 
-The design was implemented using verilog and confirmed zero design violations of the LED blink design, through the in-built RTL Linter in Xilinx Vivado 2024.1. Simulated and verified the proper functioning of this design. Implemented with Zero Critical Warnings. Minor warnings in DRC violations, Synthesis and Implementation were reviewed and found to be related to default voltage bank settings, which do not affect the functionality of this hardware validation test. 
+Implemented with zero critical warnings. Minor warnings in DRC violations. Synthesis and Implementation were reviewed and found to be related to default voltage bank settings, which do not affect the functionality of this hardware validation test. 
 </p>
 
 ---
