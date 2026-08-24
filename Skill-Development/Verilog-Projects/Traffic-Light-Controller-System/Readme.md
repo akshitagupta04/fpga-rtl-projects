@@ -1,4 +1,4 @@
-# Traffic Light Controller System (FSM-based)
+# Traffic Light Controller System
 
 ## Overview 
 <p align="justify">
