@@ -1,4 +1,4 @@
-# Vending Machine Design (FSM-based)
+# Vending Machine Design
 
 ## Overview 
 <p align="justify">
