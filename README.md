@@ -6,7 +6,7 @@ I am a B.Tech. Electronics and Communication Graduate (2021) with an enduring fa
 </p>
 
 <p align="justify">
-In October 2025, I transitioned fully into RTL design, FPGA implementation, and hardware design. Hands-on experience in Verilog testbench, VHDL & Verilog RTL design-to-bitstream flow, timing analysis, power analysis, and implementation on Cmod Artix-7 35T (xc7a35tcpg236-1) FPGA board using Xilinx Vivado 2024.1. Currently, designing an FSM-based synthesizable UART controller in Verilog from scratch and implementing on Cmod A7-35T FPGA board using Xilinx Vivado 2024.1 and Teraterm. 
+In October 2025, I transitioned fully into RTL design, FPGA implementation, and hardware design. Hands-on experience in VHDL, Verilog testbench, Verilog RTL design-to-bitstream flow, timing analysis, power analysis, and implementation on Cmod Artix-7 35T (xc7a35tcpg236-1) FPGA board using Xilinx Vivado 2024.1. Currently, designing an FSM-based synthesizable UART controller in Verilog from scratch and implementing on Cmod A7-35T FPGA board using Xilinx Vivado 2024.1 and Teraterm. 
 </p>
 
 In this repository, each directory is divided into two sub-directories — VHDL Projects and Verilog Projects. It is organized as follows:
