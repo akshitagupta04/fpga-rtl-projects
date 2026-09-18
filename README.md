@@ -9,7 +9,7 @@ I am a B.Tech. Electronics and Communication Graduate (2021). I have an enduring
 In October 2025, I transitioned fully into RTL design, FPGA design, and hardware design. Hands-on experience in VHDL, Verilog testbench, Verilog RTL design-to-bitstream flow, timing analysis, power analysis, and implementation on Cmod Artix-7 35T (xc7a35tcpg236-1) FPGA board using Xilinx Vivado 2024.1. Currently, designing an FSM-based synthesizable UART controller in Verilog from scratch and implementing on Cmod A7-35T FPGA board using Xilinx Vivado 2024.1 and Teraterm. 
 </p>
 
-In this repository, each directory is divided into two sub-directories — VHDL Projects and Verilog Projects. It is organized as follows:
+In this repository, Learning Lab directory is divided into two sub-directories — VHDL Projects and Verilog Projects. Skill Development directory contains Verilog Projects sub-directory. It is organized as follows:
 
 - **Learning Lab:** Designed foundational syntax tests and basic projects with a few FPGA implementations from training, but programmed from scratch.
 - **Skill Development:** Designing intermediate or advance level projects with FPGA implementations from scratch, tutorial, or training. 
