@@ -6,7 +6,7 @@ I have an enduring fascination with chip design and how hardware architecture in
 </p> 
 
 <p align="justify">
-In October 2022, completed an 8-week online training on VLSI Design by Internshala Trainings, during GATE preparation. Gained hands-on experience with Verilog HDL, basic RTL Design, and designed digital circuits using Xilinx Vivado 2018.1. 
+In October 2022, completed an 8-week online training on VLSI Design by Internshala Trainings, during GATE preparation. Gained experience in Verilog HDL, basic RTL Design, and designed digital circuits using Xilinx Vivado 2018.1. 
 </p>
 
 <p align="justify">
