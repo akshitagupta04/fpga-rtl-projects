@@ -15,6 +15,6 @@ Currently, designing an FSM-based synthesizable UART controller from scratch in 
 
 In this repository, Learning Lab directory is divided into two sub-directories — VHDL Projects and Verilog Projects. Skill Development directory contains Verilog Projects sub-directory. It is organized as follows:
 
-- **Learning Lab:** Designed foundational syntax tests and basic projects with FPGA implementations from scratch with a few references from training. 
-- **Skill Development:** Designing intermediate or advance level projects with FPGA implementations from scratch with a few references from tutorial or training. 
+- **Learning Lab:** Designed foundational syntax tests and basic projects with FPGA implementations from scratch, with a few references from training. 
+- **Skill Development:** Designing intermediate or advanced level projects with FPGA implementations from scratch with a few references from tutorials or training. 
 - **Personal Projects:** Personal FPGA design and FPGA RTL design projects with FPGA implementation.
