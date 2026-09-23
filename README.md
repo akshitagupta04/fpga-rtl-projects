@@ -1,4 +1,4 @@
-# FPGA Design and RTL Design Projects 
+# FPGA Design and RTL Design (FPGA) Projects 
 August 2022 – Present
 
 <p align="justify">
@@ -15,6 +15,6 @@ Currently, designing an FSM-based synthesizable UART controller from scratch in 
 
 In this repository, Learning Lab directory is divided into two sub-directories — VHDL Projects and Verilog Projects. Skill Development directory contains Verilog Projects sub-directory. It is organized as follows:
 
-- **Learning Lab:** Designed foundational syntax tests and basic projects with a few FPGA implementations from training, but programmed from scratch. 
-- **Skill Development:** Designing intermediate or advance level projects with FPGA implementations from scratch, tutorial, or training. 
-- **Personal Projects:** Personal FPGA and RTL Design projects with FPGA implementation. 
+- **Learning Lab:** Designed foundational syntax tests and basic projects with FPGA implementations from scratch with a few references from training. 
+- **Skill Development:** Designing intermediate or advance level projects with FPGA implementations from scratch with a few references from tutorial or training. 
+- **Personal Projects:** Personal FPGA design and FPGA RTL design projects with FPGA implementation.
